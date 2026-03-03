@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "AVNISH RANJAN",
+    "title": "DevOps Engineer",
+    "summary": "Passionate and driven DevOps Engineer with 1+ year of experience in CI/CD automation, infrastructure management, and software quality engineering. Hands-on exposure to Docker, Linux, AWS, and Terraform with a strong foundation in Python scripting and pipeline automation using Jenkins. Eager to grow and contribute in a collaborative DevOps environment, bringing a solid automation mindset and a continuous learning approach to every challenge. Certified in Python for DevOps and DevOps practices.",
+    "location": "Mohali, Punjab, India",
+    "email": "avnishranjan7@gmail.com",
+    "phone": "+91-9660346509",
+    "links": [
+      "linkedin.com/in/avnishranjan",
+      "github.com/ABHIX1234"
+    ]
+  },
+  "experience": [
+    {
+      "company": "HanuAI Pvt. Ltd",
+      "role": "DevOps & Automation Engineer",
+      "dates": "January 2025 – Present",
+      "location": "Mohali, India",
+      "bullets": [
+        "Built and maintained CI/CD pipelines using Jenkins and Maven, automating build, test, and deployment stages — cutting deployment cycle time from 3 days to 8 hours.",
+        "Gained hands-on experience with Docker for containerizing application components and managing consistent environments across development and production.",
+        "Wrote automation and utility scripts in Python and Bash to streamline infrastructure tasks and reduce manual effort by 70% across 50+ workflows.",
+        "Worked with Linux-based environments for deployment, debugging, and performance monitoring of enterprise applications.",
+        "Configured and managed source code workflows via Git/GitHub, enabling smooth collaboration across 12+ production releases.",
+        "Monitored application performance using JMeter, simulating 10,000+ concurrent users to ensure system reliability under peak loads.",
+        "Collaborated in Agile sprints with developers and QA teams, supporting continuous delivery and maintaining 95% defect detection rate before production."
+      ]
+    },
+    {
+      "company": "Freelance / Contract",
+      "role": "Software Engineer",
+      "dates": "April 2024 – December 2024",
+      "location": "Remote",
+      "bullets": [
+        "Developed automation scripts in Python and Java to support testing and deployment workflows.",
+        "Managed version control with Git and contributed to open-source projects, strengthening collaborative development skills."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "metric": "3 days to 8h",
+      "context": "Deployment cycle time reduction via Jenkins & Maven CI/CD"
+    },
+    {
+      "metric": "70%",
+      "context": "Reduction in manual effort across 50+ workflows via Python/Bash scripts"
+    },
+    {
+      "metric": "12+",
+      "context": "Production releases managed via Git/GitHub workflows"
+    },
+    {
+      "metric": "10,000+",
+      "context": "Concurrent users simulated using JMeter for performance testing"
+    },
+    {
+      "metric": "95%",
+      "context": "Defect detection rate maintained before production"
+    },
+    {
+      "metric": "35%",
+      "context": "Improvement in API response time through automated load testing insights"
+    }
+  ],
+  "projects": [
+    {
+      "title": "CI/CD Pipeline Automation — RoadAthena Platform",
+      "stack": ["Jenkins", "Maven", "Docker", "Git", "Python"],
+      "bullets": [
+        "Designed and implemented an end-to-end CI/CD pipeline integrating Jenkins with Maven, Git, and automated test suites.",
+        "Containerized build environments using Docker for consistent and reproducible deployments.",
+        "Reduced build-to-deploy cycle from 3 days to 8 hours with automated reporting via Extent Reports."
+      ],
+      "links": []
+    },
+    {
+      "title": "API Performance & Load Testing Infrastructure",
+      "stack": ["JMeter", "FastAPI", "Python", "Bash"],
+      "bullets": [
+        "Built a performance testing infrastructure using Apache JMeter and Python scripts; stress-tested APIs with 5,000+ virtual users.",
+        "Automated report generation using Bash scripts, delivering insights that improved API response time by 35%."
+      ],
+      "links": []
+    }
+  ],
+  "skills": {
+    "CI/CD & Automation": ["Jenkins", "Maven", "Git", "GitHub", "CI/CD Pipelines", "Bash Scripting"],
+    "Containers & Orchestration": ["Docker", "Kubernetes (Learning)"],
+    "Cloud & Infrastructure": ["AWS (Learning)", "Linux Administration", "Terraform (Learning)", "Ansible (Learning)"],
+    "Scripting & Programming": ["Python", "Java", "Bash"],
+    "Monitoring & Testing": ["JMeter", "Postman", "FastAPI", "Selenium WebDriver", "TestNG"],
+    "Methodologies": ["Agile", "Scrum", "SDLC", "DevSecOps concepts", "Infrastructure as Code (IaC)"]
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Software Engineering",
+      "institution": "Chandigarh University, Mohali, India",
+      "dates": "August 2021 – July 2025",
+      "coursework": "Operating Systems, Computer Networks, Database Management Systems, Data Structures & Algorithms, Software Engineering"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Python for DevOps",
+      "issuer": "TrainWithShubham",
+      "link": "https://www.trainwithshubham.com/verify-certificate?serialno=TWS595"
+    },
+    {
+      "name": "DevOps",
+      "issuer": "TrainWithShubham",
+      "link": ""
+    },
+    {
+      "name": "Selenium",
+      "issuer": "Udemy",
+      "link": ""
+    }
+  ],
+  "awards": [],
+  "extra": []
+}
